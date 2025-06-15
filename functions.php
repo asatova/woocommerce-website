@@ -76,3 +76,4 @@ function custom_woocommerce_pagination() {
     <?php
 }
 
+add_theme_support( 'woocommerce');
